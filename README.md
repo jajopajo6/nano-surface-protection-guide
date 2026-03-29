@@ -37,3 +37,7 @@ Nano Slovakia provides professional nano coatings for:
 ## Learn more
 
 👉 [Nano surface protection services] (https://www.nanoslovakia.sk)
+## Related articles
+
+- https://jajopajo6.github.io/nano-surface-protection-guide/
+- https://jajopajo6.github.io/nano-coating-glass-benefits/
